@@ -1,9 +1,9 @@
-package Tutorial1;
+package Tutorial2;
 
 public class Demo1 {
 
 	public static void main(String[] args) {
-		System.out.println("hello everyone");
+		// TODO Auto-generated method stub
 
 	}
 
